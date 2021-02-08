@@ -13,7 +13,7 @@ cd cadem-test
 npm start
 ```
 
-La base de datos se encuentra en 
+El archivo JSON utilizado como base de datos se encuentra en el siguiente dir
 
 ```bash
 /cadem-test/src/database/bbdd.json
