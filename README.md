@@ -10,6 +10,7 @@ En la consola del OS debes introducir los siguientes comandos
 ```bash
 git clone https://github.com/GabrielEMG/cadem-test
 cd cadem-test
+npm install
 npm start
 ```
 
