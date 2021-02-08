@@ -4,7 +4,7 @@ Este proyecto ha sido creado con [Create React App](https://github.com/facebook/
 
 ## Instalación
 
-Debes tener nodeJs, npm y git instalados en el sistema.
+Debes tener nodeJs, npm y git instalados en el sistema.<br/>
 En la consola del OS debes introducir los siguientes comandos
 
 ```bash
