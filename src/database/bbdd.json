@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "proyecto": "A",
+      "subproyecto": "A-SUB-1",
+      "estatus": 1,
+      "timestamp": "2020-01-01 12:00:00"
+    },
+    {
+      "proyecto": "A",
+      "subproyecto": "A-SUB-1",
+      "estatus": 0,
+      "timestamp": "2020-01-03 11:00:00"
+    },
+    {
+      "proyecto": "C",
+      "subproyecto": "C-SUB-1",
+      "estatus": 1,
+      "timestamp": "2020-01-03 11:00:00"
+    },
+    {
+      "proyecto": "A",
+      "subproyecto": "A-SUB-1",
+      "estatus": 1,
+      "timestamp": "2020-01-03 12:00:00"
+    },
+    {
+      "proyecto": "A",
+      "subproyecto": "A-SUB-1",
+      "estatus": 1,
+      "timestamp": "2020-01-05 12:00:00"
+    },
+    {
+      "proyecto": "A",
+      "subproyecto": "A-SUB-2",
+      "estatus": 1,
+      "timestamp": "2020-01-02 12:00:00"
+    },
+    {
+      "proyecto": "A",
+      "subproyecto": "A-SUB-2",
+      "estatus": 1,
+      "timestamp": "2020-01-03 13:00:00"
+    },
+    {
+      "proyecto": "A",
+      "subproyecto": "A-SUB-2",
+      "estatus": 0,
+      "timestamp": "2020-01-04 14:00:00"
+    },
+    {
+      "proyecto": "A",
+      "subproyecto": "A-SUB-2",
+      "estatus": 0,
+      "timestamp": "2020-01-05 12:00:00"
+    },
+    {
+      "proyecto": "B",
+      "subproyecto": "B-SUB-1",
+      "estatus": 0,
+      "timestamp": "2020-02-01 12:00:00"
+    },
+    {
+      "proyecto": "B",
+      "subproyecto": "B-SUB-1",
+      "estatus": 0,
+      "timestamp": "2020-02-01 13:00:00"
+    },
+    {
+      "proyecto": "B",
+      "subproyecto": "B-SUB-1",
+      "estatus": 0,
+      "timestamp": "2020-02-01 14:00:00"
+    },
+    {
+      "proyecto": "B",
+      "subproyecto": "B-SUB-2",
+      "estatus": 1,
+      "timestamp": "2020-02-01 12:00:00"
+    },
+    {
+      "proyecto": "B",
+      "subproyecto": "B-SUB-2",
+      "estatus": 1,
+      "timestamp": "2020-01-01 12:00:00"
+    },
+    {
+      "proyecto": "B",
+      "subproyecto": "B-SUB-2",
+      "estatus": 1,
+      "timestamp": "2020-01-01 12:00:00"
+    },
+    {
+      "proyecto": "B",
+      "subproyecto": "B-SUB-2",
+      "estatus": 1,
+      "timestamp": "2020-01-01 12:00:00"
+    },
+    {
+      "proyecto": "B",
+      "subproyecto": "B-SUB-2",
+      "estatus": 1,
+      "timestamp": "2020-01-01 12:00:00"
+    }
+  ]
+}

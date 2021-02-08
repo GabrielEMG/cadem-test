@@ -1,0 +1,15 @@
+.dateFilter {
+  background-color: transparent;
+  outline: transparent;
+  border: 0px;
+  width: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.1);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
