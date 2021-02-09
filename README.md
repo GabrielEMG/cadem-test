@@ -1,6 +1,7 @@
 # Desafio desarrollo FullStack
 
 Este proyecto ha sido creado con [Create React App](https://github.com/facebook/create-react-app).
+100% responsivo para tablets y moviles
 
 ## Instalación
 
